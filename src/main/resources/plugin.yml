@@ -1,0 +1,8 @@
+name: PlaytimePlugin
+version: 1.0
+main: zmod.playtimePlugin.PlaytimePlugin
+description: A plugin with Playtime
+api-version: 1.21
+commands:
+  playtime:
+    description: Playtime
